@@ -1,0 +1,17 @@
+{
+    "name": "Gameboy.Controller",
+    "references": [
+        "GUID:20ebf2e2f3037424da062ba205b87031",
+        "GUID:1409e5bb5a1a56e478015e09b05036e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

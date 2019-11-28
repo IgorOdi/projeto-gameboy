@@ -1,0 +1,16 @@
+{
+    "name": "Gameboy.UI",
+    "references": [
+        "GUID:1409e5bb5a1a56e478015e09b05036e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
